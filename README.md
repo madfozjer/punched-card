@@ -1,29 +1,4 @@
-# punched-card
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# punched cards simulator
+made it for fun in one weekend. you can build it directly or just downloand /dist. 
+enjoy, it's quite short but it's pretty easy to add new content.
+it's open source i think but there is no tools to edit it or smth.
